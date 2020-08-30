@@ -43,6 +43,13 @@ a {
   background: #eaeaea;
 }
 
+table {
+  width: 100%;
+}
+table > tr th {
+  text-align: left;
+}
+
 section.right {
   background: #aaa;
 }
