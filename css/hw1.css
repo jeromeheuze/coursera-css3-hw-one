@@ -32,7 +32,7 @@ aside {
 }
 
 abbr {
-  border-bottom: 1px dotted blue;
+  border-bottom: 1px dotted #0080ff;
   text-decoration: none;
   cursor: help;
 }
@@ -54,5 +54,5 @@ section.right {
   background: #aaa;
 }
 section.right h2 {
-  color: blue;
+  color: #0080ff;
 }
