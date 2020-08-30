@@ -25,3 +25,8 @@ header h1 {
 aside {
   display: none;
 }
+
+abbr {
+  border-bottom: 1px dotted blue;
+  text-decoration: none;
+}
