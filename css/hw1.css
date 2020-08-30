@@ -46,7 +46,7 @@ a {
 table {
   width: 100%;
 }
-table > tr th {
+table tbody > tr th {
   text-align: left;
 }
 
